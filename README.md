@@ -1,0 +1,4 @@
+- 👋 Hi, I’m JuuuJuuu
+- 👀 I’m interested in Web development.
+- 🌱 I’m currently learning NodeJS
+- 💞️ I’m looking to collaborate on a QR Code file sender
